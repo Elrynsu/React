@@ -1,11 +1,12 @@
+import AllRoutes from './routes/AllRoutes'
 import './App.css'
 
 function App() {
 
 
     return (
-        <div>
-            <h1>Hello theresasas</h1>
+        <div className="App">
+            <AllRoutes />
         </div>
     )
 }
