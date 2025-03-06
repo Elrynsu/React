@@ -6,7 +6,7 @@ export default function AllRoutes() {
     <>
       <Routes>
         <Route path="/" element={<MovieList />} />
-        <Route path="/movies/:id" element={<MovieDetail />} />
+        <Route path="/movie/:id" element={<MovieDetail />} />
         <Route path="/movies/popular" element={<MovieList />} />
         <Route path="/movies/top" element={<MovieList />} />
         <Route path="/movies/upcoming" element={<MovieList />} />

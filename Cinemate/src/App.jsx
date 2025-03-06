@@ -1,3 +1,4 @@
+import AllRoutes from './routes/AllRoutes'
 import './App.css'
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-        <h1>Hello cinemate</h1>
+        <AllRoutes />
     </>
   )
 }
