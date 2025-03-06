@@ -2,7 +2,9 @@
 export default function MovieList() {
   return (
     <main>
-      MovieList
+        <div>
+            MovieList
+        </div>
     </main>
   )
 }
