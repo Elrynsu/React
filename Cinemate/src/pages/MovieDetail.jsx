@@ -2,7 +2,7 @@
 export default function MovieDetail() {
     return (
         <main>
-            <div className="text-9xl">
+            <div>
                 MovieDetail
             </div>
         </main>
