@@ -1,0 +1,164 @@
+{
+    "products": [
+        {
+            "id": 10001,
+            "name": "Bmw i7",
+            "overview": "The BMW i7 is a luxury electric sedan that combines elegant design, cutting-edge technology, and powerful performance.",
+            "long_description": "The BMW i7 is BMW/'s flagship electric sedan, offering a sleek exterior and a high-tech, luxurious interior. It features a curved digital display, advanced driver assistance, and a Theatre Screen for rear passengers. With a dual-motor setup, it delivers instant acceleration and an impressive electric range.",
+            "price": 75000,
+            "poster": "/images/Bmwi7.webp",
+            "rating": 4,
+            "in_stock": true,
+            "size": 5,
+            "best_seller": true
+        },
+        {
+            "id": 10002,
+            "name": "Bmw iX",
+            "overview": "The BMW iX is a futuristic all-electric SUV that blends luxury, performance, and cutting-edge technology.",
+            "long_description": "The BMW iX is a premium electric SUV designed for both comfort and innovation. It features a bold, aerodynamic design with a minimalist interior, a curved digital display, and sustainable materials. Equipped with dual motors and all-wheel drive, it delivers strong acceleration and an impressive electric range. ",
+            "price": 99000,
+            "poster": "/images/BmwiX.webp",
+            "rating": 5,
+            "in_stock": true,
+            "size": 2,
+            "best_seller": false
+        },
+        {
+            "id": 10003,
+            "name": "Ioniq 5",
+            "overview": "The Hyundai Ioniq 5 is a stylish and futuristic electric crossover, known for its spacious interior and fast-charging capabilities.",
+            "long_description": "The Hyundai Ioniq 5 combines retro-inspired design with advanced EV technology. Built on Hyundai/'s E-GMP platform, it offers a spacious cabin, ultra-fast 800V charging, and a long driving range. The minimalist interior features sustainable materials and a large dual-screen infotainment system. With smooth acceleration, available all-wheel drive, and smart driver assistance features, the Ioniq 5 delivers a premium and efficient electric driving experience.",
+            "price": 34000,
+            "poster": "/images/Ioniq5.webp",
+            "rating": 5,
+            "in_stock": true,
+            "size": 1,
+            "best_seller": false
+        },
+        {
+            "id": 10004,
+            "name": "Kia EV6",
+            "overview": "The Kia EV6 is a sleek and sporty electric crossover that combines bold design with impressive performance and range.",
+            "long_description": "The Kia EV6 offers a dynamic and futuristic design, featuring a spacious, high-tech cabin with a curved dual-screen display. Built on the same platform as the Hyundai Ioniq 5, it boasts fast charging and an impressive electric range. The EV6 delivers powerful acceleration and a choice of rear- or all-wheel drive configurations.",
+            "price": 48900,
+            "poster": "/images/KiaEV6.webp",
+            "rating": 3,
+            "in_stock": true,
+            "size": 7,
+            "best_seller": true
+        },
+        {
+            "id": 10005,
+            "name": "Kia EV9",
+            "overview": "The Kia EV9 is a bold, all-electric SUV that combines rugged design with advanced technology and sustainability.",
+            "long_description": "The Kia EV9 is a spacious and versatile electric SUV, designed with a strong, rugged exterior and a luxurious interior. It offers a large touchscreen display, sustainable materials, and advanced connectivity features. With a focus on performance, the EV9 delivers impressive acceleration, long-range capabilities, and fast-charging support. Equipped with smart driver-assist systems, it/'s perfect for families seeking a high-tech, eco-friendly vehicle.",
+            "price": 64000,
+            "poster": "/images/KiaEV9.webp",
+            "rating": 4,
+            "in_stock": true,
+            "size": 3,
+            "best_seller": false
+        },
+        {
+            "id": 10006,
+            "name": "Mg 4",
+            "overview": "The MG 4 is a compact and affordable electric hatchback that offers a great combination of style, performance, and value for money.",
+            "long_description": "The MG 4 is an all-electric hatchback designed for city driving and everyday convenience. With a sleek, modern exterior and a comfortable interior, it provides an efficient electric range. The car features advanced safety technologies and a user-friendly infotainment system. The MG 4 is built for those looking for an eco-friendly yet budget-friendly option in the EV market, offering smooth driving and practical features.",
+            "price": 24500,
+            "poster": "/images/Mg4.webp",
+            "rating": 2,
+            "in_stock": true,
+            "size": 10,
+            "best_seller": false
+        },
+        {
+            "id": 10007,
+            "name": "Polestar 3",
+            "overview": "The Polestar 3 is a luxury electric SUV that combines high performance, innovative technology, and a striking design.",
+            "long_description": "The Polestar 3 features a bold, minimalist design and offers a luxurious, high-tech interior with advanced features like a large digital display and sustainable materials. With a focus on performance, it delivers powerful acceleration and a long electric range. Equipped with advanced driver assistance systems and cutting-edge tech, the Polestar 3 is perfect for those looking for a premium, eco-conscious SUV experience.",
+            "price": 42000,
+            "poster": "/images/Polestar3.webp",
+            "rating": 5,
+            "in_stock": true,
+            "size": 2,
+            "best_seller": false
+        },
+        {
+            "id": 10008,
+            "name": "Renault Scenic",
+            "overview": "The Renault Scénic is a versatile and compact MPV, known for its practicality, comfort, and stylish design.",
+            "long_description": "The Renault Scénic offers a spacious interior with flexible seating arrangements, making it perfect for families and long trips. Its sleek, modern design is complemented by a range of convenient features, including a large touchscreen and smart storage options. Whether you're navigating city streets or taking a road trip, the Scénic delivers a smooth ride with a fuel-efficient engine and advanced safety technologies.",
+            "price": 19900,
+            "poster": "/images/RenaultScenic.webp",
+            "rating": 2,
+            "in_stock": true,
+            "size": 3,
+            "best_seller": true
+        },
+        {
+            "id": 10009,
+            "name": "Tesla 3",
+            "overview": "The Tesla Model 3 is an electric sedan known for its impressive performance, long range, and cutting-edge technology.",
+            "long_description": "The Tesla Model 3 combines sleek design with autonomous driving capabilities and a minimalist interior. It offers an impressive electric range and fast acceleration, making it one of the most efficient electric cars on the market. The Model 3 features advanced safety technologies and a large touchscreen interface, providing a futuristic driving experience.",
+            "price": 39000,
+            "poster": "/images/Tesla3.webp",
+            "rating": 1,
+            "in_stock": true,
+            "size": 3,
+            "best_seller": false
+        },
+        {
+            "id": 10010,
+            "name": "Vw Buzz",
+            "overview": "The VW ID. Buzz is a retro-inspired electric minivan that combines iconic design with modern electric technology.",
+            "long_description": "The VW ID. Buzz brings back the charm of the classic Volkswagen bus with a futuristic electric twist. Inside, it features a spacious cabin with a high-tech infotainment system and eco-friendly materials. The ID. Buzz offers a smooth electric ride, ample cargo space, and advanced safety features. Perfect for families or anyone looking for a stylish, eco-friendly vehicle with plenty of character.",
+            "price": 64000,
+            "poster": "/images/VwBuzz.webp",
+            "rating": 4,
+            "in_stock": true,
+            "size": 1,
+            "best_seller": false
+        }
+    ],
+    "featured_products": [
+        {
+            "id": 10010,
+            "name": "Vw Buzz",
+            "overview": "The VW ID. Buzz is a retro-inspired electric minivan that combines iconic design with modern electric technology.",
+            "long_description": "The VW ID. Buzz brings back the charm of the classic Volkswagen bus with a futuristic electric twist. Inside, it features a spacious cabin with a high-tech infotainment system and eco-friendly materials. The ID. Buzz offers a smooth electric ride, ample cargo space, and advanced safety features. Perfect for families or anyone looking for a stylish, eco-friendly vehicle with plenty of character.",
+            "price": 64000,
+            "poster": "/images/VwBuzz.webp",
+            "rating": 4,
+            "in_stock": true,
+            "size": 1,
+            "best_seller": false
+        },
+        {
+            "id": 10007,
+            "name": "Polestar 3",
+            "overview": "The Polestar 3 is a luxury electric SUV that combines high performance, innovative technology, and a striking design.",
+            "long_description": "The Polestar 3 features a bold, minimalist design and offers a luxurious, high-tech interior with advanced features like a large digital display and sustainable materials. With a focus on performance, it delivers powerful acceleration and a long electric range. Equipped with advanced driver assistance systems and cutting-edge tech, the Polestar 3 is perfect for those looking for a premium, eco-conscious SUV experience.",
+            "price": 42000,
+            "poster": "/images/Polestar3.webp",
+            "rating": 5,
+            "in_stock": true,
+            "size": 2,
+            "best_seller": false
+        },
+        {
+            "id": 10004,
+            "name": "Kia EV6",
+            "overview": "The Kia EV6 is a sleek and sporty electric crossover that combines bold design with impressive performance and range.",
+            "long_description": "The Kia EV6 offers a dynamic and futuristic design, featuring a spacious, high-tech cabin with a curved dual-screen display. Built on the same platform as the Hyundai Ioniq 5, it boasts fast charging and an impressive electric range. The EV6 delivers powerful acceleration and a choice of rear- or all-wheel drive configurations.",
+            "price": 48900,
+            "poster": "/images/KiaEV6.webp",
+            "rating": 3,
+            "in_stock": true,
+            "size": 7,
+            "best_seller": false
+        }
+    ],
+    "orders": [],
+    "users": []
+}
