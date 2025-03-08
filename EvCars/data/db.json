@@ -82,7 +82,7 @@
             "rating": 5,
             "in_stock": true,
             "size": 2,
-            "best_seller": false
+            "best_seller": true
         },
         {
             "id": 10008,
@@ -144,7 +144,7 @@
             "rating": 5,
             "in_stock": true,
             "size": 2,
-            "best_seller": false
+            "best_seller": true
         },
         {
             "id": 10004,
