@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
-import ProductCard from "../../components/Elements/ProductCard";
+
 import ProductFilterBar from "./components/ProductFilterBar";
+import { ProductCard } from "../../components";
 
 
 export default function ProductList() {

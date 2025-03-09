@@ -1,5 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
-import { HomePage, ProductList } from '../pages';
+import { HomePage, ProductDetail, ProductList } from '../pages';
+
+
 
 export default function AllRoutes() {
   return (
@@ -7,6 +9,7 @@ export default function AllRoutes() {
         <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/products" element={<ProductList />} />
+            <Route path="/products/:id" element={<ProductDetail />} />
         </Routes>
     </>
   )
